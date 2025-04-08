@@ -1,0 +1,5 @@
+[tool.ruff]
+line-length = 88
+lint.select = ["E", "F", "B", "W"]
+exclude = ["venv", "tests"]
+fix = true
