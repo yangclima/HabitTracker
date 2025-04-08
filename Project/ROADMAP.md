@@ -6,10 +6,10 @@ Este roadmap descreve as etapas recomendadas para o desenvolvimento do HabitTrac
 
 ## Etapa 1: Preparação do Ambiente
 
-- [ ] Configurar ambiente Python local
-- [ ] Criar repositório Git
-- [ ] Estruturar diretórios iniciais do projeto
-- [ ] Configurar ambiente virtual
+- [x] Configurar ambiente Python local
+- [x] Criar repositório Git
+- [x] Estruturar diretórios iniciais do projeto
+- [x] Configurar ambiente virtual
 
 ## Etapa 2: Modelagem de Dados
 
